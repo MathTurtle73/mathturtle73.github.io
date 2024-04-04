@@ -1,3 +1,0 @@
-# Introduction
-
-I'm MathTurtle!
